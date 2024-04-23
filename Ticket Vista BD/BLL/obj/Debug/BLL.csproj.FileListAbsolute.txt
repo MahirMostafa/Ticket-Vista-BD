@@ -1,0 +1,70 @@
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\BLL.dll
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\BLL.pdb
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\DAL.dll
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\DAL.pdb
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\DAL.dll.config
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.dll
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.pdb
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\EntityFramework.dll
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\EntityFramework.xml
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\AutoMapper.dll
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\AutoMapper.xml
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\bin\Debug\BLL.dll
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\bin\Debug\BLL.pdb
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\bin\Debug\AutoMapper.dll
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\bin\Debug\DAL.dll
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\bin\Debug\EntityFramework.dll
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\bin\Debug\DAL.pdb
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\bin\Debug\DAL.dll.config
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\bin\Debug\AutoMapper.xml
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\bin\Debug\EntityFramework.xml
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.dll
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.pdb
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\bin\Debug\BLL.dll
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\bin\Debug\BLL.pdb
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\bin\Debug\AutoMapper.dll
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\bin\Debug\DAL.dll
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\bin\Debug\EntityFramework.dll
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\bin\Debug\DAL.pdb
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\bin\Debug\DAL.dll.config
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\bin\Debug\AutoMapper.xml
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\bin\Debug\EntityFramework.xml
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\obj\Debug\BLL.dll
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\BLL\obj\Debug\BLL.pdb
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\bin\Debug\BLL.dll
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\bin\Debug\BLL.pdb
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\bin\Debug\AutoMapper.dll
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\bin\Debug\DAL.dll
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\bin\Debug\EntityFramework.dll
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\bin\Debug\DAL.pdb
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\bin\Debug\DAL.dll.config
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\bin\Debug\AutoMapper.xml
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\bin\Debug\EntityFramework.xml
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\obj\Debug\BLL.dll
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\BLL\obj\Debug\BLL.pdb
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\BLL.dll
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\BLL.pdb
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\AutoMapper.dll
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\DAL.dll
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\EntityFramework.dll
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\DAL.pdb
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\DAL.dll.config
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\AutoMapper.xml
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\bin\Debug\EntityFramework.xml
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.dll
+F:\Merged Project\dot-net-project\Ticket Vista BD\BLL\obj\Debug\BLL.pdb

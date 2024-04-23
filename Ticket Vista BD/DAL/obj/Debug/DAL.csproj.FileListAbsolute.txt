@@ -1,0 +1,81 @@
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\DAL.dll.config
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\DAL.dll
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\DAL.pdb
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\EntityFramework.dll
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\EntityFramework.xml
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.dll
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.pdb
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\bin\Debug\DAL.dll.config
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\bin\Debug\DAL.dll
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\bin\Debug\DAL.pdb
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.dll
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.pdb
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.dbinit.resources
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.events.resources
+C:\Users\ak4as\OneDrive\Desktop\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.events1.resources
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\bin\Debug\DAL.dll.config
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\bin\Debug\DAL.dll
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\bin\Debug\DAL.pdb
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\obj\Debug\DAL.dll
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\obj\Debug\DAL.pdb
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.Merge1.resources
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.AdvertiseModified.resources
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.TableModified.resources
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.advertisetablemodifiedTitle.resources
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.TicketTableAdded.resources
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.EventTableModified.resources
+D:\Asp.net Final Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.EventModified.resources
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.one.resources
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\ak4as\OneDrive\Desktop\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.modifyadvertisertable.resources
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\bin\Debug\DAL.dll.config
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\bin\Debug\DAL.dll
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\bin\Debug\DAL.pdb
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.one.resources
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.modifyadvertisertable.resources
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\obj\Debug\DAL.dll
+C:\Users\ak4as\OneDrive\Desktop\Marge\Ticket Vista BD\DAL\obj\Debug\DAL.pdb
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\DAL.dll.config
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\DAL.dll
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\DAL.pdb
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\EntityFramework.dll
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\EntityFramework.xml
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.one.resources
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.Migrations.modifyadvertisertable.resources
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.dll
+F:\Merged Project\dot-net-project\Ticket Vista BD\DAL\obj\Debug\DAL.pdb
